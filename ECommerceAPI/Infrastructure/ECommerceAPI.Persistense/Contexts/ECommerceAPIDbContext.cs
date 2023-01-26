@@ -6,7 +6,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ECommerceAPI.Persistense.Contexts
+namespace ECommerceAPI.Persistence.Contexts
 {
     public class ECommerceAPIDbContext: DbContext
     {
